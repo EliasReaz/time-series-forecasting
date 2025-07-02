@@ -216,4 +216,3 @@ This project is open-sourced under the [MIT License](https://opensource.org/lice
 **Reaz Elias**
 Data Scientist | [LinkedIn](https://www.linkedin.com/in/reaz-ussalamelias/)
 📫 eliasreaz \[at] gmail \[dot] com
->>>>>>> f9df3c8 (Update README.md with Prophet and LightGBM model details)

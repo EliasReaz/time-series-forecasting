@@ -11,7 +11,7 @@ It includes full data processing, modeling, evaluation, explainability (SHAP), a
 
 ## 📁 Project Structure
 
-
+```
 time-series-forecasting/
 │
 ├── data/                  # Input dataset (raw and processed)
@@ -21,6 +21,7 @@ time-series-forecasting/
 ├── environment.yml        # Conda environment definition
 ├── requirements.txt       # pip dependency list
 └── README.md              # Project documentation
+```
 
 ---
 
